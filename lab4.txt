@@ -1,0 +1,36 @@
+ctrl - g         - поиск строки 
+ctrl - f         - поиск текста
+ctrl - shift - f - поиск во всех документах
+
+-------------------
+
+1 + 2 + 3
+6
+$
+(a,b){return new n.fn.init(a,b)}
+$$
+$$(selector, [startNode]) { [Command Line API] }
+$_
+$$(selector, [startNode]) { [Command Line API] }
+1 + 2 + 3
+6
+$_
+6
+$$
+$$(selector, [startNode]) { [Command Line API] }
+$_
+$$(selector, [startNode]) { [Command Line API] }
+
+------------------
+
+галочка в консоле хром - console preserve log
+сохраняет лог при закрытие / перезапуске страницы
+
+------------------
+
+ctrl - d - после выбора слова редактирует его во всем документе
+
+так-же можно поставить несколько курсоров нажатием ctrl + LMB
+
+------------------
+
